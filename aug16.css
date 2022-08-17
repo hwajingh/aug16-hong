@@ -101,3 +101,17 @@ a {
   text-align: center;
   margin: 0;
 }
+
+.agree {
+  display: flex;
+  align-items: center;
+}
+
+.agree p {
+  white-space: nowrap;
+}
+
+.checkbox {
+  margin-top: 0 !important;
+  margin-right: 8px;
+}
